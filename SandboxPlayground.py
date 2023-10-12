@@ -5,3 +5,4 @@
 print ("Hello Avonlea.")
 
 print ("\nI am looking forward to my birthday.")
+print ("I hope I get a Fyodor plushie for my birthday.")
